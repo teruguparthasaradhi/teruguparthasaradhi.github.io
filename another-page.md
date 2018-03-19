@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## It's under developement 
 
 _yay_
 
