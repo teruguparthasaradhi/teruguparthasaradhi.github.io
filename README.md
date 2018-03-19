@@ -1,1 +1,0 @@
-# teruguparthasaradhi.github.io
